@@ -1,4 +1,4 @@
-[![MasterHead](https://www.technoloader.com/blog/wp-content/uploads/2019/10/blockchain-developer.gif.)](https://AyaanMerchant.io)
+[![MasterHead](https://feature.undp.org/beyond-bitcoin/assets/mbNja7QNnr/block3.gif)](https://AyaanMerchant.io)
 <h1 align="center">Hi 👋, I'm Ayaan Merchant</h1>
 <h3 align="center">A passionate Blockchain developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
