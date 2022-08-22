@@ -1,7 +1,7 @@
 [![MasterHead](https://www.technoloader.com/blog/wp-content/uploads/2019/10/blockchain-developer.gif.)](https://AyaanMerchant.io)
 <h1 align="center">Hi 👋, I'm Ayaan Merchant</h1>
 <h3 align="center">A passionate Blockchain developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/embedded/download/YCZM.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanmerchant&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanmerchant" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ayaan merchant" target="blank"><img src="https://img.shields.io/twitter/follow/ayaan merchant?logo=twitter&style=for-the-badge" alt="ayaan merchant" /></a> </p>
